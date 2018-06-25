@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/* ------------------------------
+ reset 
+------------------------------ */
+
+h1, h2, h3, h4, h5, h6, p, address,
+ul, ol, li, dl, dt, dd,
+table, caption, th, td, img, form {
+	margin: 0;
+	padding: 0;
+	border: none;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100%;
+	text-align: left;       
+}
+
+body{
+	margin: 0;
+    padding: 0;
+    border: none;
+}
+
+
+
+
+
+/* ------------------------------
+ Clearfix css
+------------------------------ */
+
+
+.clearfix:after {
+  content: ".";  
+  display: block; 
+  clear: both;
+  height: 0;
+  visibility: hidden;
+}
+
+.clearfix {
+  min-height: 1px;
+}
+
+* html .clearfix {
+  height: 1px;
+  /*\*//*/
+  height: auto;
+  overflow: hidden;
+  /**/
+}

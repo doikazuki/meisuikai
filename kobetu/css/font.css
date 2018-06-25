@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 12px;
+	color: #4B4B4B;
+}
+p#copy {
+	font-size: 10px;
+}
+div#maincontentbox h2 {
+	font-size: 18px;
+	color: #3C4C5A;
+	line-height: 20px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999;
+	padding-top: 10px;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+}
+div.comonnbox span {
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	color: #666;
+	font-size: 11px;
+	margin-bottom: 20px;
+	display: block;
+}

@@ -1,0 +1,11 @@
+div#menubox a:link {	text-decoration: none;	color: #3C3C3C;}
+div#menubox a:visited{	color: #3C3C3C;}
+div#menubox a:hover{	color: #09C;	text-decoration: none;}
+div#menubox a:active{	color: #C60;}
+
+
+
+div#footerbox a:link {	text-decoration: none;	color: #3C3C3C;}
+div#footerbox a:visited{	color: #3C3C3C;}
+div#footerbox a:hover{	color: #09C;	text-decoration: none;}
+div#footerbox a:active{	color: #C60;}

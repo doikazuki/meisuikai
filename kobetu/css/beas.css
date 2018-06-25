@@ -1,0 +1,177 @@
+@charset "UTF-8";
+div#headerbox ,#footerbox{
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+p#hedercopy {
+	margin-bottom: 30px;
+	margin-top: 10px;
+	font-size: 11px;
+}
+div#hederbox_left {
+	width: 500px;
+	height: 50px;
+	float: left;
+}
+div#headerbox_right {
+	width: 300px;
+	height: 50px;
+	float: right;
+}
+div#headerbox_right p {
+	display: block;
+	color: #31496F;
+	padding: 5px;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: right;
+	line-height: 40px;
+}
+div#hederbox_left h1 {
+	line-height: 50px;
+	font-size: 25px;
+	font-family: "ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-weight: bold;
+	letter-spacing: .1em;
+}
+div#maincontentbox {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+div#menubox {
+	margin-bottom: 10px;
+}
+div#menubox ul {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+div#menubox ul li   {
+	display: inline-block;
+	list-style-type: none;
+	float: left;
+	background-color: #FFF;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	letter-spacing: .2em;
+	line-height: 40px;
+	height: 40px;
+	color: #464646;
+}
+li.gnavi01 {
+	border: 1px solid #CCC;
+	width: 160px;
+}
+li.gnavi02 {
+	width: 159px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+}
+
+li.gnavi03 {
+	width: 157px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #CCC;
+	border-bottom-color: #CCC;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCC;
+}
+div.comonnbox {
+	margin-bottom: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+div#footerbox ul {
+	height: 30px;
+	line-height: 30px;
+	font-size: 10px;
+}
+div#footerbox ul li {
+	display: inline;
+	margin-right: 10px;
+}
+#footerbox address h3 {
+	font-weight: bold;
+	font-size: 13px;
+	line-height: 25px;
+}
+#footerbox address p {
+}
+
+div#footerbox_out {
+	height: 100%;
+}
+div#footerbox  {
+	display: block;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 5px;
+	border-top-style: solid;
+	border-top-color: #666;
+}
+table#companytable {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #999;
+	border-right-color: #999;
+	border-left-color: #999;
+}
+table#companytable th {
+	padding: 10px;
+	width: 100px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+	border-right-width: 1px;
+	border-right-style: dotted;
+	border-right-color: #999;
+}
+table#companytable td {
+	padding: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+}
+img#companyphoto {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666;
+	margin-bottom: 10px;
+}
+dl#newsbox dt {
+	font-weight: bold;
+	line-height: 20px;
+	color: #42A9E6;
+	font-size: 12px;
+}
+dl#newsbox dd {
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #999;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	font-size: 12px;
+	line-height: 15px;
+}
+.bgcolorg {
+	background-color: #E4F5FB;
+}

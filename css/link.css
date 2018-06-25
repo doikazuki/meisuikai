@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+/* ------------------------------
+ * Link css
+ * 命水会
+ *------------------------------ */
+ 
+
+
+#leftsubnavibox a:link   {
+	text-decoration: none;
+	color: #039;
+}
+#leftsubnavibox a:visited{
+	text-decoration: none;
+	color: #039;
+}
+#leftsubnavibox a:hover  {
+	text-decoration: none;
+	color: #099;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #09C;
+}
+#leftsubnavibox a:active { text-decoration: none;}
+
+
+#menbertable a:link   {
+	text-decoration: none;
+	color: #039;
+}
+#menbertable a:visited{
+	text-decoration: none;
+	color: #039;
+}
+#menbertable a:hover  {
+	text-decoration: none;
+	color: #099;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #09C;
+}
+#menbertable a:active { text-decoration: none;}
+
+
+
+
+ul#grundnavi a:link   { color:#FFF; text-decoration: none;}
+ul#grundnavi a:visited{ color:#FFF; text-decoration: none;}
+ul#grundnavi a:hover  { color:#FFF; text-decoration: none;}
+ul#grundnavi a:active { color:#FFF; text-decoration: none;}
+
+
+ul#fotternavi a:link   { color:#FFF; text-decoration: none;}
+ul#fotternavi a:visited{ color:#FFF; text-decoration: none;}
+ul#fotternavi a:hover  { color:#FFF; text-decoration: none;}
+ul#fotternavi a:active { color:#FFF; text-decoration: none;}
